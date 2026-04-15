@@ -1,0 +1,3 @@
+id,metric_name,metric_value,timestamp,category,tags
+1,active_users,1,2025-12-22 15:48:30,system_health,"{""status"": ""healthy""}"
+2,active_users,1,2025-12-22 16:17:09,system_health,"{""status"": ""healthy""}"

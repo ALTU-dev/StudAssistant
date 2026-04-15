@@ -1,0 +1,6 @@
+id,code,name,description,icon,points_reward,condition_type,condition_value,category,difficulty,is_active
+1,FIRST_GRADE,Первая оценка,Получите первую оценку в системе,🎯,10,grades_count,1.0,grades,easy,True
+2,EXCELLENT_STUDENT,Отличник,"Получите 10 оценок ""5""",⭐,50,excellent_grades,10.0,grades,medium,True
+3,PERFECT_ATTENDANCE,Идеальная посещаемость,Посещайте все занятия в течение месяца,📅,30,attendance_perfect_month,1.0,attendance,hard,True
+4,FAST_LEARNER,Быстрый ученик,Улучшите средний балл на 1.0 за месяц,🚀,40,grade_improvement,1.0,progress,medium,True
+5,HELPER,Помощник,Помогите 5 другим студентам,🤝,25,help_others,5.0,social,medium,True
